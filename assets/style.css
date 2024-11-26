@@ -58,7 +58,7 @@ body {
 }
 
 .cartao__conteudo__resposta p {
-    color: var(--card-back-roxo);
+    color: var(--card-back-color);
     font-weight: 700;
 }
 
@@ -78,7 +78,7 @@ body {
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
     background-color: rgba(0, 244, 191, 0.2);
-    border: 4px solid var(--card-back-azul);
+    border: 4px solid var(--card-back-color);
 }
 
 footer {
